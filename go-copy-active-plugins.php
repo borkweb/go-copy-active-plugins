@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Gigaom Copy Active Plugins
- * Plugin URI: http://gigaom.com
+ * Plugin Name: Go Copy Active Plugins
+ * Plugin URI: http://borkweb.com
  * Description: Export/Import activated plugins
  * Version: 2.0
- * Author: Gigaom
- * Author URI: http://gigaom.com
+ * Author: Matthew Batchelder
+ * Author URI: http://borkweb.com
  * License: GPL2
  */
 

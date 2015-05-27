@@ -1,4 +1,4 @@
-# Gigaom Copy Active Plugins
+# Go Copy Active Plugins
 
 _Export/Import activated plugins_
 
@@ -7,4 +7,4 @@ Get an easy list of all the active plugins and copy/paste that from one WordPres
 ## Links
 
 * [WordPress plugin page](http://wordpress.org/plugins/go-copy-active-plugins/)
-* [GitHub repo](https://github.com/GigaOM/go-copy-active-plugins)
+* [GitHub repo](https://github.com/borkweb/go-copy-active-plugins)

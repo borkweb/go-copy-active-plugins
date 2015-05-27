@@ -1,4 +1,4 @@
-=== Gigaom Copy Active Plugins ===
+=== Go Copy Active Plugins ===
 Contributors: borkweb, zbtirrell
 Tags: plugins, admin
 Requires at least: 3.6
@@ -16,13 +16,13 @@ WordPress instance to another to keep your active plugins in sync.
 === Links ===
 
 * [WordPress plugin page](http://wordpress.org/plugins/go-copy-active-plugins/)
-* [GitHub repo](https://github.com/GigaOM/go-copy-active-plugins)
+* [GitHub repo](https://github.com/borkweb/go-copy-active-plugins)
 
 == Installation ==
 
 1. Upload `go-copy-active-plugins` to the `/wp-content/plugins/` directory
-1. Activate 'Gigaom Copy Active Plugins' through the 'Plugins' menu in WordPress
+1. Activate 'Go Copy Active Plugins' through the 'Plugins' menu in WordPress
 
 == Contributing ==
 
-This plugin is developed and [available on GitHub](https://github.com/GigaOM/go-copy-active-plugins). Contributions and questions are welcome!
+This plugin is developed and [available on GitHub](https://github.com/borkweb/go-copy-active-plugins). Contributions and questions are welcome!
